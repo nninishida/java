@@ -1,0 +1,9 @@
+ .wanda{
+    background: rgb(243,63,251);
+background: radial-gradient(circle, rgba(243,63,251,1) 0%, rgba(224,255,0,1) 100%);
+ text-align: center;
+ }
+
+ .exemplo3:hover {
+    background: #eaff00;
+    }
